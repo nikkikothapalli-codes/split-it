@@ -6,6 +6,8 @@ tip are apportioned by what each person actually ordered.
 Runs entirely in the browser. The photo never leaves the device — no upload,
 no server, nothing stored.
 
+https://split-it-food.netlify.app/
+
 ## Running it
 
 ```bash
